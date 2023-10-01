@@ -19,7 +19,7 @@ function Footer() {
     <footer className={classes.footer}>
       <Container maxWidth="lg">
         <Typography variant="body1">
-          © {new Date().getFullYear()} Designed & Developed By : <a href='https://www.linkedin.com/feed/' target='_blank'>Faizan Ahmed Abbasi</a>
+          © {new Date().getFullYear()} Designed & Developed By : <a href='https://www.linkedin.com/feed/' target='_blank' rel="noreferrer">Faizan Ahmed Abbasi</a>
         </Typography>
       </Container>
     </footer>
